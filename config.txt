@@ -1,0 +1,46 @@
+###############################################################################
+# Bootloader configuration - config.txt
+################################################################################
+
+################################################################################
+# For overclocking and various other settings, see:
+# https://www.raspberrypi.com/documentation/computers/config_txt.html
+################################################################################
+
+# OpenWrt config
+include distroconfig.txt
+
+[all]
+# Place your custom settings here.
+
+# Override USB PD Negoiation. Max power to RPI
+usb_max_current_enable=1
+
+# Enable variable speed CPU fan
+dtoverlay=gpio-fan,gpiopin=14,temp=80000
+
+# Enable PCIe interface for AW7915-NPD
+dtparam=pciex1
+dtoverlay=pcie-32bit-dma-pi5
+
+# Disable LED lights (Optional)
+dtparam=eth_led0=4
+dtparam=eth_led1=4
+dtparam=act_led_trigger=none
+dtparam=act_led_activelow=off
+dtparam=pwr_led_trigger=none
+dtparam=pwr_led_activelow=off
+
+# Disable Onboard Wi-Fi/Bluetooth (Optional)
+dtoverlay=disable-wifi-pi5
+dtoverlay=disable-bt-pi5
+
+# Disable Onboard Audio (Optional)
+dtparam=audio=off
+
+# Disable HDMI (Optional)
+hdmi_blanking=2
+hdmi_force_hotplug=0
+
+# Disable camera interface (Optional)
+start_x=0
