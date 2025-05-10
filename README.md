@@ -74,7 +74,9 @@ Hardware assembly is straightforward:
 
 ### Software 💿
 
-On the software side of things, download the latest image of OpenWRT using Firmware Selector ([https://firmware-selector.openwrt.org/](https://firmware-selector.openwrt.org/)).  This guide was written using verison 24.10.1.
+On the software side of things, you have two options
+1. Download the image in this repoistory to which this guide was written.
+2. Download the latest image of OpenWRT using Firmware Selector ([https://firmware-selector.openwrt.org/](https://firmware-selector.openwrt.org/)).  For #2, see the additional instructions below:
 
 * Search "Raspberry Pi 5"
 * Click "Customize installed packages and/or first boot script"
