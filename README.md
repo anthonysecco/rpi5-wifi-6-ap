@@ -2,7 +2,6 @@
 
 ![image](https://github.com/user-attachments/assets/587c47b7-064c-4182-a117-315ef1a800a1)
 
-
 ## 📝Project Goal&#x20;
 
 I couldn't find a suitable 2x2 Wi-Fi 6 access point with 2x SMA connectors to connect to my roof-mounted Parsec Great Pyrenees. I wanted something cost-effective that could ideally run OpenWRT with full support. One major advantage of using OpenWRT(https://openwrt.org/) on this setup is the ability to configure the device not only as a Wi-Fi access point but also as a Wi-Fi client (or Wi-Fi as WAN). This feature allows simultaneous station and client modes, making it ideal for connecting to campground Wi-Fi while broadcasting a local network. After some research and testing, I came up with the Bill of Materials (BOM) below.&#x20;
@@ -11,17 +10,19 @@ Let's go! 🚀
 
 ## 📦Bill of Materials (BOM)&#x20;
 
-* Raspberry Pi 5 (2GB)
-* Official Pi 5 Active Cooler
-* 1GB or Larger SD Card of your Choice
-* 52Pi M02 PCIe Express to Mini PCIe HAT
-* AsiaRF AW7915-NPD Wi-Fi 6 Mini PCIe Module
-* 30x30x10mm Aluminum Heatsink
-* 2x Coaxial Cable 1.13 Diameter SMA RP IPEX Pigtails
-* 2x Wi-Fi Dipole Antenna Dual Bands (2.4/5GHz)
-* Waveshare Industrial Grade Metal Case (D) for Raspberry Pi 5
-* 12V/24V to 5V USB-C Step Down Converter (Type-C Interface, 5A, 25W)
-* Parsec Great Pyrenees 11-in-1 Antenna (2 banks of 4x4 Cellular, 1 bank of 2x2 Wifi, GPS)
+* [Raspberry Pi 5 2GB](https://amzn.to/4jOZTnD)
+* [Official Pi 5 Active Cooler](https://amzn.to/3SxpnK8)
+* [1GB or Larger SD Card of your Choice](https://amzn.to/3YH8YX7)
+* [52Pi M02 PCIe Express to Mini PCIe HAT](https://amzn.to/3ZaA0q0)
+* [AsiaRF AW7915-NPD Wi-Fi 6 Mini PCIe Module](https://amzn.to/3GO5dZW)
+* [30x30x10mm Aluminum Heatsink](https://amzn.to/4mc7m1M)
+* [2x Coaxial Cable 1.13 Diameter SMA RP IPEX Pigtails](https://amzn.to/3F3sZk6)
+* [2x Wi-Fi Dipole Antenna Dual Bands (2.4/5GHz)](https://amzn.to/4daSZGZ)
+* [Waveshare Industrial Grade Metal Case (D) for Raspberry Pi 5](https://amzn.to/3RXDR5S)
+* [12V/24V to 5V USB-C Step Down Converter (Type-C Interface, 5A, 25W)](https://amzn.to/3RXDR5S)
+* [Parsec Great Pyrenees 11-in-1 Antenna (2 banks of 4x4 Cellular, 1 bank of 2x2 Wifi, GPS)](https://mobilemusthave.com/products/parsec-great-pyrenees)
+
+Note: the above may contain Amazon Affliate Links
 
 ## 🧩Design Considerations&#x20;
 
