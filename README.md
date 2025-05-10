@@ -5,7 +5,7 @@
 
 ## 📝Project Goal&#x20;
 
-I couldn't find a suitable 2x2 Wi-Fi 6 access point with 2x SMA connectors to connect to my roof-mounted Parsec Great Pyrenees. I wanted something cost-effective that could ideally run OpenWRT with full support. One major advantage of using OpenWRT on this setup is the ability to configure the device not only as a Wi-Fi access point but also as a Wi-Fi client (or Wi-Fi as WAN). This feature allows simultaneous station and client modes, making it ideal for connecting to campground Wi-Fi while broadcasting a local network. After some research and testing, I came up with the Bill of Materials (BOM) below.&#x20;
+I couldn't find a suitable 2x2 Wi-Fi 6 access point with 2x SMA connectors to connect to my roof-mounted Parsec Great Pyrenees. I wanted something cost-effective that could ideally run OpenWRT with full support. One major advantage of using OpenWRT(https://openwrt.org/) on this setup is the ability to configure the device not only as a Wi-Fi access point but also as a Wi-Fi client (or Wi-Fi as WAN). This feature allows simultaneous station and client modes, making it ideal for connecting to campground Wi-Fi while broadcasting a local network. After some research and testing, I came up with the Bill of Materials (BOM) below.&#x20;
 
 Let's go! 🚀
 
