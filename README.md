@@ -10,7 +10,7 @@ Let's go! 🚀
 
 ## 📦Bill of Materials (BOM)&#x20;
 
-* [Raspberry Pi 5 2GB](https://amzn.to/4jOZTnD)
+* [Raspberry Pi 5 2GB](https://amzn.to/3S0JYqe)
 * [Official Pi 5 Active Cooler](https://amzn.to/3SxpnK8)
 * [1GB or Larger SD Card of your Choice](https://amzn.to/3YH8YX7)
 * [52Pi M02 PCIe Express to Mini PCIe HAT](https://amzn.to/3ZaA0q0)
