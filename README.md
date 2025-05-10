@@ -105,6 +105,15 @@ This file allows us to make some system changes before OpenWRT loads up.  This 
 
 The optional items (disable HDMI, Onboard Wi-Fi/Bluetooth etc.) all help reduce idle power consumption.  With the AW7915-NPD on, but idle, the system idles around \~4w with these settings.  Under full load it's \~8w.
 
+Once all of these is done, insert the SD card into the RPI5 and fire it up.  The ethernet interface will issue an IP by default.  The default gateway IP will get you the OpenWRT UI.  From there you can configure to your heart's desire.
+
+**Configuration Recommendations**
+
+Here are my suggestions for optimal performance for an RV/Boat:
+
+* 2.4Ghz Radio - Channel 1 or 11 - 20mhz - 802.11ax
+* 5Ghz Radio - Channel 149 - 80mhz - 802.11ax
+
 &#x20;
 
 ## 🧪 Testing and Performance
