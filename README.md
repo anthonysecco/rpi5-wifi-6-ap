@@ -177,6 +177,10 @@ Overall, I'm happy with the results. 200-500Mbps inside and outside the van is s
 
 Let me know if you've found this useful!
 
+## 🤖 AI Disclosure
+
+This project was built largely with AI coding tools (Claude). I directed the design and reviewed the changes, but most of the code and documentation was written by AI. Please review the code before relying on it, and open an issue if you find a problem.
+
 ## 📄License
 
 This project is licensed under the MIT License. For more details, see the LICENSE file.&#x20;
