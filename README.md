@@ -1,5 +1,7 @@
 # Raspberry Pi 5 Wi-Fi 6 Access Point for RV/Boat 🚐📶
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-donate-yellow.svg)](https://www.buymeacoffee.com/anthonysecco)
+
 ![image](https://github.com/user-attachments/assets/587c47b7-064c-4182-a117-315ef1a800a1)
 
 ## 📝Project Goal&#x20;
@@ -176,6 +178,10 @@ As this project continues to evolve, here are a few ideas for future improvement
 Overall, I'm happy with the results. 200-500Mbps inside and outside the van is sufficient performance.  This number will likely exceed the available Internet bandwidth out in the wild.  I definitely made a mistake on antenna location.  I should've put that on the passenger side of the roof for a bit extra performance outside, but such is life.  🤷‍♂️
 
 Let me know if you've found this useful!
+
+## 💖 Support
+
+If you found this project useful, consider [buying me a coffee](https://www.buymeacoffee.com/anthonysecco). ☕
 
 ## 🤖 AI Disclosure
 
